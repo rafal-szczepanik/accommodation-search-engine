@@ -1,0 +1,9 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    background: url("../../assets/images/lake-gce2925c7b_640.jpg");
+    background-size: cover;
+    padding: 80px 15px;
+}
